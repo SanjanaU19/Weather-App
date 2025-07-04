@@ -1,1 +1,1 @@
-# Weather-App
+The Weather App is a front-end user interface that displays basic weather information like temperature, weather conditions, and city name. This version uses HTML and CSS to create the structure and design of the app. While the actual weather data comes from an API (typically handled with JavaScript), this version focuses only on the UI layout and styling.
